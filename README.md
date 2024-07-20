@@ -1,13 +1,9 @@
 <h2 align="center">Hi there👋, I am Aryanshi!</h2>
 
-
-
-[![MasterHead](https://www.crestinfosystems.com/wp-content/uploads/2021/12/banner-8.png)](https://www.crestinfosystems.com/wp-content/uploads/2021/12/banner-8.png)
-
 <h3 align="center"> A passionate Android Developer with expertise in Kotlin and a knack for building robust mobile applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-aryanshi&label=Profile%20views&color=0e75b6&style=flat" alt="n-aryanshi" /> </p>
-<img align="right" alt="Coding" width="460px" height="350x" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coding" width="450" src="https://www.crestinfosystems.com/wp-content/uploads/2021/12/banner-8.png">
 
 - 🔭 I’m currently working on **Echo tune** 
 
