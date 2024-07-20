@@ -2,7 +2,7 @@
 
 
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*e3jNfHQGTe7f7ptGpa74yA.png)](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*e3jNfHQGTe7f7ptGpa74yA.png)
+[![MasterHead](https://www.crestinfosystems.com/wp-content/uploads/2021/12/banner-8.png)](https://www.crestinfosystems.com/wp-content/uploads/2021/12/banner-8.png)
 
 <h3 align="center"> A passionate Android Developer with expertise in Kotlin and a knack for building robust mobile applications</h3>
 
